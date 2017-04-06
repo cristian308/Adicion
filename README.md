@@ -27,10 +27,10 @@ Dar los pasos para mostrar la suma de dos números ingresados por el usuario
        b--->|_________|
        
        
-| a.b.c ∈ Numeros Enteros     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| a.b.c ∈ Numeros Enteros | Character |
+| ---                     | ---       |
+| Backtick                | `         |
+| Pipe                    | \|        |
        
 
 ## Algoritmo  
