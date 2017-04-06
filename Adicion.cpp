@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : Adicion.cpp
-// Author      : 
-// Version     :
+// Author      : Enzo Cremella
+// Version     : 0.1
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Suma de dos números enteros
 //============================================================================
 
 #include <iostream>
