@@ -16,11 +16,12 @@ Dar los pasos para mostrar la suma de dos números ingresados por el usuario
 
 ## Análisis
 
-1) Debemos pedir al usuario dos números (en éste caso solicitamos "enteros")
-2) Se leen un número y luego otro
-3) Se ingresan los dos números
+1) Debemos pedir al usuario dos números (en este caso solicitamos dos números enteros)
+2) Se ingresan los dos números
+3) Se leen los dos números
 4) Se debe mostrar por pantalla la sumatoria de los dos números ingresados 
 
+![texto cualquiera por si no carga la imagen](url completa de la imagen)
 
 ## Algoritmo  
 
