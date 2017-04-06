@@ -21,17 +21,14 @@ Dar los pasos para mostrar la suma de dos números ingresados por el usuario
 3) Se ingresan los dos números
 4) Se debe mostrar por pantalla la sumatoria de los dos números ingresados
 
-             _________     
-       a--->|         |
-            |    P    |---->a+b
-       b--->|_________|
-       
-       
-| a.b.c ∈ Numeros Enteros | Character |
-| ---                     | ---       |
-| Backtick                | `         |
-| Pipe                    | \|        |
-       
+| a,b,c ∈ Z |
+| :---: |
+| **Leer a** |
+| **Leer b** |
+| **c ← a+b** |
+| **Escribir c** | 
+
+
 
 ## Algoritmo  
 
