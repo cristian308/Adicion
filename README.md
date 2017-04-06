@@ -1,25 +1,17 @@
-# Adicion
+> # * Adicion
 
-Asignatura: Algoritmos y Estructura de Datos
+> Asignatura: Algoritmos y Estructura de Datos
 
-Curso: k1051
+> Curso: k1051
 
-Año: 2017
+> Año: 2017
 
-Cuatrimestre: Primer Cuatrimestre
+> Cuatrimestre: Primer Cuatrimestre
 
-## Usuarios
-
-1- ecremella
-
-156.602-7
-
-Cremella Enzo
-
-2- 
-
-Rodrigo Mollon
-
+> # * Usuarios
+> - ecremella
+> - 156.602-7
+> - Cremella Enzo
 
 ### Enunciado
 
