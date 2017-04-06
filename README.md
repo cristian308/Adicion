@@ -1,34 +1,37 @@
-> # * Adicion
+> #### *Adicion*
 
-> Asignatura: Algoritmos y Estructura de Datos
+> - Asignatura: Algoritmos y Estructura de Datos
+> - Curso: k1051
+> - Año: 2017
+> - Cuatrimestre: Primer Cuatrimestre
 
-> Curso: k1051
-
-> Año: 2017
-
-> Cuatrimestre: Primer Cuatrimestre
-
-> # * Usuarios
+> #### *Usuarios*
 > - ecremella
 > - 156.602-7
 > - Cremella Enzo
 
-### Enunciado
+# Enunciado
 
 Dar los pasos para mostrar la suma de dos números ingresados por el usuario
 
-#### Análisis
+## Análisis
 
 1) Debemos pedir al usuario dos números (en éste caso solicitamos "enteros")
 2) Se leen un número y luego otro
 3) Se ingresan los dos números
 4) Se debe mostrar por pantalla la sumatoria de los dos números ingresados
 
+             _________     
+       a--->|         |
+            |    P    |---->a+b
+       b--->|_________|
+       
+       
+| a.b.c ∈ Numeros Enteros     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+       
 
-       a--->(         )
-            (    P    )---->a+b
-       b--->(         )
-
-
-#### Algoritmo  
+## Algoritmo  
 
