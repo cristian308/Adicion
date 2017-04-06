@@ -21,7 +21,7 @@ Dar los pasos para mostrar la suma de dos números ingresados por el usuario
 3) Se leen los dos números
 4) Se debe mostrar por pantalla la sumatoria de los dos números ingresados 
 
-![texto cualquiera por si no carga la imagen](url completa de la imagen)
+![Alt texto](SUMA.jpg "Imagen del análisis)
 
 ## Algoritmo  
 
