@@ -16,18 +16,16 @@ Dar los pasos para mostrar la suma de dos números ingresados por el usuario
 
 ## Análisis
 
-1) Debemos pedir al usuario dos números (en este caso solicitamos dos números enteros)
-2) Se ingresan los dos números
-3) Se leen los dos números
-4) Se debe mostrar por pantalla la sumatoria de los dos números ingresados 
+1) Se leen dos números enteros
+2) Se ingresan los dos válores
+3) Se muestra la sumatoria de "a+b" 
 
 ![Alt text](SUMA.jpg "Imagen del análisis")
 
 ## Algoritmo  
 
-| a,b,c ∈ Z |
+| a,b ∈ Z |
 | :---: |
 | **Leer a** |
 | **Leer b** |
-| **c ← a+b** |
-| **Escribir c** |
+| **Mostrar "a+b"** |
